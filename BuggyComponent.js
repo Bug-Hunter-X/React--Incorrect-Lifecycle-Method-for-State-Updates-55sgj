@@ -1,0 +1,1 @@
+This React component uses the wrong lifecycle method to update the state. `componentWillReceiveProps` is deprecated in React 16+.  Instead, use `getDerivedStateFromProps` or the `useEffect` hook.
